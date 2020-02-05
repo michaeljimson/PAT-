@@ -19,7 +19,7 @@ int main()
     return 0;
 }
 
-/* 你的代码将被嵌在这里 */
+/* 浣犵殑浠ｇ爜灏嗚宓屽湪杩欓噷 */
 int prime( int p )
 {
 	if(p<=1)
