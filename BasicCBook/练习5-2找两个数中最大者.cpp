@@ -12,7 +12,7 @@ int main()
     return 0;
 }
 
-/* ÄãµÄ´úÂë½«±»Ç¶ÔÚÕâÀï */
+/* ä½ çš„ä»£ç å°†è¢«åµŒåœ¨è¿™é‡Œ */
 int max(int a, int b){
 	if(a>b)
 		return a;

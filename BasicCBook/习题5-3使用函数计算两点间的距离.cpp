@@ -13,7 +13,7 @@ int main()
     return 0;
 }
 
-/* 你的代码将被嵌在这里 */
+/* 浣犵殑浠ｇ爜灏嗚宓屽湪杩欓噷 */
 double dist( double x1, double y1, double x2, double y2 )
 {
 	double d = 0;
